@@ -1,0 +1,1 @@
+Olá me chamo Simone, estou aprendendo Git com a Rafa Ballerine
